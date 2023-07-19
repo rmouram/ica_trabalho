@@ -1,0 +1,5 @@
+env
+.git
+.ipynb_checkpoints
+data
+
